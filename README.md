@@ -15,6 +15,9 @@ This repo is an implementation of the paper "Image-to-Image Translation with Con
 - 
 
 
+## Discriminator
+
+<img width="317" alt="image" src="https://github.com/user-attachments/assets/bcb9fbfb-0bb4-4239-a120-a061e8e99653">
 
 
 
