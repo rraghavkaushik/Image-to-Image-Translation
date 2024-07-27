@@ -17,7 +17,7 @@ This repo is an implementation of the paper "Image-to-Image Translation with Con
 
 ## Generator
 
-<img height = "400" width="317" alt="image" src="https://github.com/user-attachments/assets/6d32921c-88f9-4f0e-a997-382b636b494b">
+<img width="317" alt="image" src="https://github.com/user-attachments/assets/6d32921c-88f9-4f0e-a997-382b636b494b">
 
 
 ## Discriminator
