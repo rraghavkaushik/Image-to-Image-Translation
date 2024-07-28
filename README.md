@@ -23,7 +23,9 @@ This repo is an implementation of the paper "Image-to-Image Translation with Con
 
 ## Discriminator
 
-<img width="317" alt="image" src="https://github.com/user-attachments/assets/bcb9fbfb-0bb4-4239-a120-a061e8e99653">
+<!--- <img width="317" alt="image" src="https://github.com/user-attachments/assets/bcb9fbfb-0bb4-4239-a120-a061e8e99653"> --->
+<img width="317" alt="image" src="https://github.com/user-attachments/assets/7d3f5079-12d7-4f78-a3e4-a25ea4534878">
+
 
 
 Link to the paper "https://arxiv.org/pdf/1611.07004"
